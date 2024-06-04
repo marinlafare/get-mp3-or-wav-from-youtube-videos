@@ -4,7 +4,9 @@
 Extract audio from youtube video in mp3 or wav format.
 Requires [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) and [pytube](https://github.com/pytube/pytube).
 
-Just run main.py and follow instructions in the console.
+You'll need to create two folders: audios_from_yt and videos_from_yt in the same folder as main.py
+
+Then just run main.py and provide a URL in the console.
 
 ![alt text](image.png)
 
